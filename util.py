@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# added for w7
 """
 Created on Thu Oct  8 19:13:49 2020
 
